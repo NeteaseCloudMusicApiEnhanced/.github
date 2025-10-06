@@ -1,3 +1,3 @@
-## 你好\(@^0^@)/
-### 我们是[NeteaseCloudMusicApi Enhanced(Reborn)](https://github.com/neteasecloudmusicapienhanced/api-enhanced)的维护小组
-> **原组织: [NeteaseCloudMusicApiReborn](https://github.com/neteasecloudmusicapireborn)**
+**[网易云音乐API Enahanced主仓库](https://github.com/neteasecloudmusicapienhanced/api-enhanced)**
+### 计划
+使用其他部署平台部署网易云音乐api enhanced
